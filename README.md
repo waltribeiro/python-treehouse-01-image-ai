@@ -1,1 +1,1 @@
-# python-ai-image-1
+# python-treehouse-01-image-ai
